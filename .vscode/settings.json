@@ -5,5 +5,6 @@
         "activityBar.background": "#311E6B",
         "titleBar.activeBackground": "#442B96",
         "titleBar.activeForeground": "#FBFBFE"
-    }
+    },
+    "pasteImage.path": "pic"
 }
